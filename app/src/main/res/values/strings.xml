@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculatorLauncher</string>
+    <string name="button_label">Launch calculator</string>
+</resources>
